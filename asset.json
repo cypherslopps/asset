@@ -1,7 +1,7 @@
 {
-    'name': 'Jekins',
-    'description': 'Something to remember',
-    'symbol': 'JKNS',
-    'decimals': '9',
-    'image': 'https://raw.githubusercontent.com/CodeRunne/token-assets/main/logo.webp',
+    "name": "Jekins",
+    "description": "Something to remember",
+    "symbol": "JKNS",
+    "decimals": "9",
+    "image": "https://raw.githubusercontent.com/CodeRunne/token-assets/main/logo.webp",
 }
